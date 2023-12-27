@@ -1,0 +1,38 @@
+body {
+    margin: 0px; ;
+    padding: 0px; ;
+    background-image:url(/assests/media-pasos/Prototipo\ de\ ordenador\ web\ tecnológica\ moderna\ negro\ y\ amarillo\ \(1\).png) ;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+    float:right;
+    background-image: url(/assests/media-pasos/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;}
+    
+.caja{
+    float:right;
+    background-image: url(/assests/media-pasos/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;}
+
+.contenedor{
+    float:left;
+    background-image: url(/assests/media-pasos/aesthetic-mountain-synthwave-retrowave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    width: 250px;
+    height: 100px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;}
+
+    a{
+        display: inline;
+    }
